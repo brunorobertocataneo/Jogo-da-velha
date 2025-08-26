@@ -1,4 +1,10 @@
-﻿namespace Jogo_da_Velha
+﻿// Estrutura de Dados 1
+// Bruno Roberto Cataneo e Alexandre da Silva Rocha
+
+
+using System;
+
+namespace Jogo_da_Velha
 {
     class Program
     {
@@ -8,8 +14,9 @@
             string turno = "X";
             int index = 1;
             int tentativas = 0;
+            bool venceu = false;
 
-            // Preencher tabuleiro numerado
+            // Preencher 
             for (int i = 0; i < matriz.GetLength(0); i++)
             {
                 for (int j = 0; j < matriz.GetLength(1); j++)
@@ -19,8 +26,8 @@
                 }
             }
 
-            // Loop principal
-            while (tentativas < 9)
+            // Loop 
+            while (tentativas < 9 && !venceu)
             {
                 Console.Clear();
 
@@ -40,7 +47,6 @@
 
                 bool jogadaValida = false;
 
-                // Verifica onde substituir
                 for (int i = 0; i < matriz.GetLength(0); i++)
                 {
                     for (int j = 0; j < matriz.GetLength(1); j++)
@@ -56,7 +62,10 @@
                 if (jogadaValida)
                 {
                     tentativas++;
-                    turno = (turno == "X") ? "O" : "X"; // alterna turno
+                    venceu = VerificarVencedor(matriz, turno);
+
+                    if (!venceu)
+                        turno = (turno == "X") ? "O" : "X"; // alterna turno entre X e O
                 }
                 else
                 {
@@ -66,7 +75,6 @@
             }
 
             Console.Clear();
-            Console.WriteLine("Fim do jogo!");
             for (int i = 0; i < matriz.GetLength(0); i++)
             {
                 for (int j = 0; j < matriz.GetLength(1); j++)
@@ -76,7 +84,38 @@
                 Console.WriteLine();
             }
 
+            if (venceu)
+                Console.WriteLine($"\nJogador {turno} venceu!");
+            else
+                Console.WriteLine("\nEmpate!");
+
             Console.ReadLine();
+        }
+
+        static bool VerificarVencedor(string[,] tabuleiro, string turno)
+        {
+            // Verificar linhas
+            for (int i = 0; i < 3; i++)
+            {
+                if (tabuleiro[i, 0] == turno && tabuleiro[i, 1] == turno && tabuleiro[i, 2] == turno)
+                    return true;
+            }
+
+            // Verificar colunas
+            for (int j = 0; j < 3; j++)
+            {
+                if (tabuleiro[0, j] == turno && tabuleiro[1, j] == turno && tabuleiro[2, j] == turno)
+                    return true;
+            }
+
+            // Verificar diagonais
+            if (tabuleiro[0, 0] == turno && tabuleiro[1, 1] == turno && tabuleiro[2, 2] == turno)
+                return true;
+
+            if (tabuleiro[0, 2] == turno && tabuleiro[1, 1] == turno && tabuleiro[2, 0] == turno)
+                return true;
+
+            return false;
         }
     }
 }

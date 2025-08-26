@@ -1,14 +1,29 @@
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.exe
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.deps.json
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.runtimeconfig.json
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.dll
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.pdb
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfoInputs.cache
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfo.cs
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.csproj.CoreCompileInputs.cache
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.dll
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\refint\JogoDaVelha.dll
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.pdb
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.genruntimeconfig.cache
-C:\Users\bruno\Desktop\UNOESC\estrutura-de-dados\JogoDaVelha\obj\Debug\net9.0\ref\JogoDaVelha.dll
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/bin/Debug/net9.0/JogoDaVelha.exe
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/bin/Debug/net9.0/JogoDaVelha.deps.json
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/bin/Debug/net9.0/JogoDaVelha.runtimeconfig.json
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/bin/Debug/net9.0/JogoDaVelha.dll
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/bin/Debug/net9.0/JogoDaVelha.pdb
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.AssemblyInfoInputs.cache
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.AssemblyInfo.cs
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.dll
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/refint/JogoDaVelha.dll
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.pdb
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/JogoDaVelha.genruntimeconfig.cache
+C:/Users/bruno/Desktop/UNOESC/estrutura-de-dados/JogoDaVelha/obj/Debug/net9.0/ref/JogoDaVelha.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/bin/Debug/net9.0/JogoDaVelha
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/bin/Debug/net9.0/JogoDaVelha.deps.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/bin/Debug/net9.0/JogoDaVelha.runtimeconfig.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/bin/Debug/net9.0/JogoDaVelha.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/bin/Debug/net9.0/JogoDaVelha.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.AssemblyInfoInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.AssemblyInfo.cs
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.sourcelink.json
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/refint/JogoDaVelha.dll
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.pdb
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/JogoDaVelha.genruntimeconfig.cache
+/home/bruno/Área de trabalho/UNOESC/ESTRUTURA DE DADOS/Jogo-da-velha/obj/Debug/net9.0/ref/JogoDaVelha.dll
